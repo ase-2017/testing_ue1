@@ -1,0 +1,3 @@
+Issues identified: 
+Issue number : where (it can be one or more line numbers) : Test Case Defined (yes,no) : Fixed (yes/no) : what is the problem
+00 : L6 : no : no : Author name "Danilo Beuche" misspelled (This is a sample entry, there is no JUnit for this )
